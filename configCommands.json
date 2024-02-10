@@ -1,0 +1,70 @@
+{
+  "commandBanned": {},
+  "envGlobal": {
+    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
+    "goatbotApikey": ""
+  },
+  "envCommands": {
+    "daily": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "notification": {
+      "delayPerGroup": 250
+    },
+    "rank": {
+      "deltaNext": 5
+    },
+    "rankup": {
+      "deltaNext": 5
+    },
+    "appstore": {
+      "limitResult": 3
+    },
+    "dhbc": {
+      "reward": 1000
+    },
+    "info": {},
+    "antiout": {
+      "deltaNext": 5
+    },
+    "cosplay": {},
+    "gay": {
+      "deltaNext": 5
+    },
+    "qr": {},
+    "wanted": {
+      "deltaNext": 5
+    },
+    "Pokémon": {
+      "deltaNext": 5
+    },
+    "pokemon": {
+      "reward": 60
+    },
+    "guess": {
+      "reward": 800
+    },
+    "character": {},
+    "pokecatch": {
+      "deltaNext": 5
+    }
+  },
+  "envEvents": {
+    "logsbot": {
+      "allow": true
+    }
+  },
+  "commandUnload": [
+    "autoseen.js",
+    "roast.js",
+    "autoreact.js",
+    "pokemon.js",
+    "todolist.js",
+    "anya.js",
+    "gpt.js",
+    "mistake.js"
+  ]
+}
