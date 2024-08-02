@@ -56,15 +56,4 @@
     "logsbot": {
       "allow": true
     }
-  },
-  "commandUnload": [
-    "autoseen.js",
-    "roast.js",
-    "autoreact.js",
-    "pokemon.js",
-    "todolist.js",
-    "anya.js",
-    "gpt.js",
-    "mistake.js"
-  ]
-}
+  }
