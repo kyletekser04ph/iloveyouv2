@@ -3,8 +3,8 @@ const fs = require("fs");
 
 module.exports = {
   config: {
-    name: "pending",
-    aliases: ['pend'],
+    name: "pend2",
+    aliases: ['pending2'],
     version: "1.0",
     author: "Xemon",
     countDown: 5,
