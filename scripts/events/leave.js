@@ -16,7 +16,7 @@ module.exports = {
 			session4: "tối",
 			leaveType1: "tự rời",
 			leaveType2: "bị kick",
-			defaultLeaveMessage: "{userNameTag} đã {type} khỏi nhóm"
+			defaultLeaveMessage: "{userName} đã {type} khỏi nhóm"
 		},
 		en: {
 			session1: "morning",
@@ -25,7 +25,7 @@ module.exports = {
 			session4: "evening",
 			leaveType1: "left",
 			leaveType2: "was kicked from",
-			defaultLeaveMessage: "{userNameTag} {type} the group"
+			defaultLeaveMessage: "𝗚𝗼𝗼𝗱 𝗕𝘆𝗲 𝗭𝗲𝗻𝗽𝗮𝗶 {userNameTag}\n▬▬▬▬▬▬▬▬▬▬▬▬\n\n💁🏻‍♂️ 𝗥𝗲𝗮𝘀𝗼𝗻: {type} 𝘁𝗵𝗲 𝗴𝗿𝗼𝘂𝗽."
 		}
 	},
 
